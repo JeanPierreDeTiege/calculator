@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/az400labsjp/400.1/_apis/build/status/JeanPierreDeTiege.calculator?branchName=master)](https://dev.azure.com/az400labsjp/400.1/_build/latest?definitionId=1&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
